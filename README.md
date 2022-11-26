@@ -1,4 +1,4 @@
-# app
+# Unique App
 
 A new Flutter project.
 
